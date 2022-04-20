@@ -1,0 +1,13 @@
+name = "PsychometricTesting"
+uuid = "f798eb5f-6474-4cc2-8477-9a8e1596006b"
+authors = ["Tobias Alfers <tobias@alfers.eu>"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
